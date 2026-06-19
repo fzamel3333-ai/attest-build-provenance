@@ -2,7 +2,7 @@
 
 Generate signed build provenance attestations for workflow artifacts. Internally
 powered by the [@actions/attest][1] package.
-
+README.md
 Attestations bind some subject (a named artifact along with its digest) to a
 [SLSA build provenance][3] predicate using the [in-toto][2] format.
 
